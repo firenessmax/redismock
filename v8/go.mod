@@ -1,4 +1,4 @@
-module github.com/elliotchance/redismock/v7
+module github.com/firenessmax/redismock/v8
 
 go 1.12
 
